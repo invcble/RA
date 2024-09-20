@@ -1,3 +1,6 @@
+https://libguides.library.drexel.edu/Researching_Company
+
+
 #### 1. **Reorganization / Restructuring (Including Consolidation and Divestitures)**
    - "Company Name reorganization news"
    - "Company Name restructuring announcement"
