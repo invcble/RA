@@ -106,6 +106,6 @@ def process_companies_from_excel(input_excel, output_excel):
     output_df.to_excel(output_excel, index=False)
     print(f"Results written to {output_excel}")
 
-input_excel = 'company_list.xlsx'
-output_excel = 'company_event_results.xlsx'
+input_excel = 'source_code/test_companies.xlsx'
+output_excel = 'source_code/company_event_results.xlsx'
 process_companies_from_excel(input_excel, output_excel)
